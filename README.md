@@ -107,6 +107,9 @@
 
 </details>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leicheng42)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
