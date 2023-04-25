@@ -107,7 +107,7 @@
 
 </details>
 
-[![leicheng42's GitHub stats](github-readme-stats-ten-sage.vercel.app/api?username=leicheng42)](https://github.com/leicheng42/github-readme-stats)
+[![Lei Cheng's GitHub stats](github-readme-stats-ten-sage.vercel.app/api?username=leicheng42)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leicheng42)](https://github.com/anuraghazra/github-readme-stats)
 
